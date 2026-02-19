@@ -1,6 +1,6 @@
 module.exports = {
   paths: {
-    "/create": {
+    "/users/create": {
       post: {
         tags: {
           Users: "Create a user",
